@@ -1,70 +1,65 @@
-<h1 align="center">Hi, I'm ACYE</h1>
-<h3 align="center">专注的Web全栈开发者 | 前后端协同架构师</h3>
+## 你好，我是 acye
 
-<div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/CSS3-Proficient-blue?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/React-Proficient-blue?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/Vue-Expert-green?style=flat&logo=vue.js)
-  ![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=flat&logo=node.js)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Proficient-brightgreen?style=flat&logo=springboot)
-  ![MySQL](https://img.shields.io/badge/MySQL-Expert-blue?style=flat&logo=mysql)
+### 关于我
 
-</div>
+#### 博客：<https://ye-guan-xing.github.io/>
 
----
+- 专注于前端、后端和 AI 应用落地的全栈开发者
 
-## 🚀 技术专长
+    *“热爱于解决问题，因伟大并非天成。”*
+>
+> *有 Bug？那不叫 Bug，那叫特性。*
+>
+> *“为什么这个 PR 只改了一行？” 别问，问就是重构。*
 
-### 核心技术栈
-- **前端开发**: 精通HTML5/CSS3布局与动画、JavaScript(ES6+)核心特性，熟练使用React/Vue框架构建组件化应用，擅长响应式设计与跨端适配
-- **后端开发**: 熟练掌握Node.js(Express/NestJS)、Java(Spring Boot)开发，擅长RESTful API设计与微服务架构落地
-- **数据存储**: 深入理解MySQL索引优化、MongoDB文档设计、Redis缓存策略，能根据场景选择最优存储方案
-- **全栈工程化**: 精通前后端协同开发流程，擅长使用TypeScript提升代码健壮性，主导过多个全栈项目从0到1的架构设计
+### 🛠 技术栈
 
-### 工具与平台
-- **开发工具**: VS Code, IntelliJ IDEA, Git, Chrome DevTools
-- **构建工具**: Webpack, Vite, Maven, npm/yarn
-- **测试工具**: Jest, Cypress, Postman, JUnit
-- **部署运维**: Docker, Nginx, CI/CD(GitHub Actions), 云服务(AWS/阿里云)
+- 💻 &#160;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 
----
+- 🌐 &#160;
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+[![Vue 3](https://img.shields.io/badge/Vue%203-333333?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-333333?logo=vite&logoColor=white)](https://vitejs.dev/)
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack&logoColor=8DD6F9)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white)
+![UniApp](https://img.shields.io/badge/-UniApp-333333?style=flat&logoColor=white)
+![WeChat Mini Program](https://img.shields.io/badge/-Mini%20Program-333333?style=flat&logo=wechat&logoColor=07C160)
 
-## 📜 教育与竞赛经历
+- ⚙️ &#160;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
+![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios&logoColor=5A29E4)
+![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat)
 
-- **CCF-CAT全国算法精英大赛全国总决赛优胜奖** - 中国计算机协会（CCF）
-- **ISCC 智能安全赛国赛（仿人智能体赛道）三等奖** - 团队核心开发成员-
-- **全栈开发实战课程认证** - 专注前后端融合技术与架构设计
-- **持续学习** - 深入研究现代Web框架源码与性能优化方法论
+- 🛢 &#160;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D)
 
----
+- 🤖 &#160;
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=flat&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat)
+![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat)
 
-## 🎯 当前重点
+- 🔧 &#160;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions&logoColor=2088FF)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&logoColor=white)
 
-正在通过项目深化以下技能：
-- 全栈项目架构设计与性能瓶颈突破
-- 前后端状态管理与数据同步方案优化
-- 跨端开发(Web/小程序)统一解决方案
-- 云原生环境下的全栈应用部署与监控
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ye-guan-xing/ye-guan-xing/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ye-guan-xing/ye-guan-xing/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ye-guan-xing/ye-guan-xing/output/github-snake.svg" />
+</picture>
 
----
 
-## 📞 联系方式
+### 💡 技术价值
 
-- **邮箱**: 2024352805@qq.com
-- **GitHub**: [github.com/YE-guan-xing](https://github.com/YE-guan-xing)
-- **博客**: [acye's blog](https://ye-guan-xing.github.io/)
-- **Codeforces**: username: acye
-
----
-
-## 💡 开发理念
-
-> "全栈的价值在于打通从用户体验到系统架构的全链路，让技术真正服务于需求。"
-
-<div align="center" style="display: flex; align-items: center; gap: 8px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YE-guan-xing.YE-guan-xing" alt="访客统计" />
-  <span>访客统计</span>
-</div>
+"全栈的价值在于打通从用户体验到系统架构的全链路，让技术真正服务于需求。"
