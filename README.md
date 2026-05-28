@@ -54,9 +54,9 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ye-guan-xing/ye-guan-xing/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ye-guan-xing/ye-guan-xing/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ye-guan-xing/ye-guan-xing/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ye-guan-xing/YE-guan-xing/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ye-guan-xing/YE-guan-xing/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ye-guan-xing/YE-guan-xing/output/github-snake.svg" />
 </picture>
 
 
