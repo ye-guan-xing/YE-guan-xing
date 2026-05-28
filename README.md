@@ -46,7 +46,7 @@
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat)
 ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat)
 
-- 🔧 &#160;
+🔧 &#160;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
